@@ -9,8 +9,12 @@ package Hogar;
  *
  * @author Paqui Elena
  */
-public class Vivienda {
+ /** HOLA */
+public class Vivienda 
+{
+    
     private double precio;
+    
     private int numHabitaciones;
     private double superficie;
     private boolean parking;
